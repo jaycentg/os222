@@ -10,4 +10,13 @@ ZCZC W00 100 L05 Quiz related including studying
 ZCZC W00 100 L10 Assignment #00
 ZCZC W00 10 L41 TXT/mylog.txt related.
 ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
-ZCZC WOO 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 30 L00 General, etc.
+ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 80 L05 Quiz related including studying
+ZCZC W01 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 100 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 10 L41 TXT/mylog.txt related.
