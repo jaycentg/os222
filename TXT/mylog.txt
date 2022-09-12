@@ -20,4 +20,4 @@ ZCZC W01 30 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 100 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 15 L41 TXT/mylog.txt related.
-ZCZC W01 70 L11 Assignment #01
+ZCZC W01 100 L11 Assignment #01
