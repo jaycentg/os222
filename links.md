@@ -41,6 +41,16 @@ This video is also about cyber security, but the main focus of this video is abo
 9. [Why Care About Internet Privacy?](https://www.youtube.com/watch?v=85mu9PLWCuI)<br>
 I've found this video very interesting. This video is about digital privacy and why we should care about that.
 
+### WEEK 03
+10. [Difference between Internal and External fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/)<br>
+This site is very useful to learn the differences between internal and external fragmentation. There are also some diagrams to visualize each type of fragmentation.
+
+11. [File System in Operating System (OS)](https://www.scaler.com/topics/file-systems-in-os/)<br>
+If you don't have time to read Silberschatz's book about file systems, you can read this one instead. Although this site is not as complete as Silberschatz's book, this site still contains important things you have to know about file systems, including properties of a file system, file structure, file types, space allocation, and many more.
+
+12. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+This video explains the basics of file systems in a nutshell. For me, this video is pretty informative for that kind of duration.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
