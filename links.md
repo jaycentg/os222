@@ -51,6 +51,16 @@ If you don't have time to read Silberschatz's book about file systems, you can r
 12. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
 This video explains the basics of file systems in a nutshell. For me, this video is pretty informative for that kind of duration.
 
+### WEEK 04
+13. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+This article contains a lot of useful information when it comes to memory management in an operating system. I guess this one sums up the whole chapter of Silberschatz's book about memory management. So, this article is definitely worth the read.
+
+14. [Pointers & Addresses in C](https://www.youtube.com/watch?v=sjQb7TGTO9U)<br>
+This video explains pointers and addresses in C programming language. These topics are quite hard to learn for beginners with no prior experience in C, but I think this video will help you to understand the topics quite well.
+
+15. [C Pointer and Reference differences](https://www.youtube.com/watch?v=tHiNrSSv8GA)<br>
+Another link, another pointer video. This video is about the differences between pointers and references in C programming. The speaker explains the topic really well and makes it easy to understand.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
