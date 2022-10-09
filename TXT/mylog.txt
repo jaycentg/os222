@@ -66,3 +66,20 @@ ZCZC W04 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W04 10 L45 TXT/SHA256SUM related
 ZCZC W04 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W04 50 L14 Assignment #04
+ZCZC W05 15 L00 General, etc.
+ZCZC W05 20 L01 SCELE/Discord related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 90 L05 Quiz related including studying
+ZCZC W05 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L21 Trying something
+ZCZC W05 100 L99 Offline Lecture
+ZCZC W05 20 L22 Linux CLI including tar, etc.
+ZCZC W05 40 L25 C-language including Make.
+ZCZC W05 50 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 15 L41 TXT/mylog.txt related.
+ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 10 L45 TXT/SHA256SUM related
+ZCZC W05 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 90 L15 Assignment #05

@@ -61,6 +61,16 @@ This video explains pointers and addresses in C programming language. These topi
 15. [C Pointer and Reference differences](https://www.youtube.com/watch?v=tHiNrSSv8GA)<br>
 Another link, another pointer video. This video is about the differences between pointers and references in C programming. The speaker explains the topic really well and makes it easy to understand.
 
+### WEEK 05
+16. [Virtual Machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br>
+This article is about virtual machine. You can learn many things from this article, including how do virtual machines work, the advantages and disadvantages of virtual machines, types of virtualization, and many more. This article is very useful and informative.
+
+17. [Page Fault Handling in Operating System](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
+This article explains page fault handling very nicely and makes it easy to understand. You can read this when learning about page fault to enrich your knowledge about it.
+
+18. [Logical and Physical Address in Operating System](https://workat.tech/core-cs/tutorial/logical-and-physical-address-os-8abv46w3k0bu)<br>
+This article explains physical address, logical address, and the differences between them. I recommend you to check this one out because it is really straightforward and informative.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
