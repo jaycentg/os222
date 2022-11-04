@@ -71,6 +71,16 @@ This article explains page fault handling very nicely and makes it easy to under
 18. [Logical and Physical Address in Operating System](https://workat.tech/core-cs/tutorial/logical-and-physical-address-os-8abv46w3k0bu)<br>
 This article explains physical address, logical address, and the differences between them. I recommend you to check this one out because it is really straightforward and informative.
 
+### WEEK 06
+19. [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes)<br>
+This article is about processes in the operating system. From this article, you can learn about states of processes, Process Control Block (PCB), process scheduling, and the differences between process and program.
+
+20. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+This article explains the differences between process and thread in great detail. This article is really concise yet informative.
+
+21. [Threads in Operating System](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)<br>
+This article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
