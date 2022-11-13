@@ -81,6 +81,13 @@ This article explains the differences between process and thread in great detail
 21. [Threads in Operating System](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)<br>
 This article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.
 
+### WEEK 07
+22. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+This article is about process synchronization in the operating system. This article is very complete, even provided with analogies so readers can understand this topic really well.
+
+23. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+Although this video is quite long, it is worth to watch. The speaker explains the topic in a great detail.
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
