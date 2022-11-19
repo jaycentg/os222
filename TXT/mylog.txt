@@ -113,3 +113,20 @@ ZCZC W07 5 L45 TXT/SHA256SUM related
 ZCZC W07 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W07 200 L99 Offline Lecture
 ZCZC W07 90 L17 Assignment #07
+ZCZC W08 15 L00 General, etc.
+ZCZC W08 15 L01 SCELE/Discord related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 100 L99 Offline Lecture
+ZCZC W08 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L05 Quiz related including studying
+ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 10 L07 Demo related
+ZCZC W08 15 L22 Linux CLI including tar, etc.
+ZCZC W08 10 L25 C-language including Make.
+ZCZC W08 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W08 10 L41 TXT/mylog.txt related.
+ZCZC W08 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 5 L45 TXT/SHA256SUM related
+ZCZC W08 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08 450 L18 Assignment #08

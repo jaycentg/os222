@@ -88,6 +88,13 @@ This article is about process synchronization in the operating system. This arti
 23. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
 Although this video is quite long, it is worth to watch. The speaker explains the topic in a great detail.
 
+### WEEK 08
+24. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html)<br>
+This is a great article to learn about how scheduling works in operating system. You can learn many things here, such as the definition of scheduling, why it is important, types of scheduler, scheduling criteria, and scheduling algorithms.
+
+25. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+This is a top-notch article about scheduling. This article is really complete and informative. You should check this article out!
+
 <br>
 <hr>
 &copy; {{ site.copyright  }} --- {{ site.author  }} --- Version: {{ site.version }}
