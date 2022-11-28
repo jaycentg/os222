@@ -130,3 +130,7 @@ ZCZC W08 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W08 5 L45 TXT/SHA256SUM related
 ZCZC W08 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W08 450 L18 Assignment #08
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09 15 L05 Quiz related including studying
+ZCZC W09 10 L41 TXT/mylog.txt related
+ZCZC W09 10 L19 Assignment #09
